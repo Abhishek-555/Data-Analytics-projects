@@ -1,4 +1,4 @@
-# Data-Analytics-projects
+# Predective Analysis
 
 This repo analysis crime from 2001 to 2017 and Sales data.
 
